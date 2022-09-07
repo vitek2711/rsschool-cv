@@ -24,13 +24,22 @@
 
 ## **My skills:**
 
-*HTML5**|**CSS3**|**Git**|**Sass**|**Markdown**|**GitHub**|**JavaScript**|**BEM**|**FIGMA**|
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:------|
+* HTML5
+* CSS3
+* BEM
+* Git
+* Sass
+* Markdown
+* GitHub
+* JavaScript
+* FIGMA
 
 ## **My goals:**
 
-|**Git**|**Angular**|**React**|**NodeJS**|
-|:-----|:-----|:-----|:-----|
+* Git
+* Angular
+* React
+* NodeJS
 
 ### **My strengths:**
 * Work Ethic;
