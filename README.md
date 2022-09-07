@@ -1,2 +1,3 @@
 # rsschool-cv
-RSS stage-1 2022
+- https://vitek2711.github.io/rsschool-cv/cv
+- https://vitek2711.github.io/rsschool-cv/
