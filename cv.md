@@ -23,7 +23,8 @@
 * [First Project](https://vitek2711.github.io/firstproject/)
 
 ## **My skills:**
-|**HTML5**|**CSS3**|**Git**|**Sass**|**Markdown**|**GitHub**|**JavaScript**|**BEM**|**FIGMA**|
+
+*HTML5**|**CSS3**|**Git**|**Sass**|**Markdown**|**GitHub**|**JavaScript**|**BEM**|**FIGMA**|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:------|
 
 ## **My goals:**
@@ -38,6 +39,7 @@
 * Self-Growth.
 
 ***
+I am motivated, punctual and open-minded. Can easily adapt to various environments. Excellent team player.
 I will be glad to study modern web development technologies and join a team of creative and energetic people!
 
 ***
@@ -51,4 +53,4 @@ function addPlaceholder() {
         greetingPlaceholder.placeholder = '[Введите свое имя]';
     }
 }
-
+```
